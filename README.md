@@ -4,6 +4,8 @@ This is the template that I use when reviewing a paper: [`comments.md`](comments
 
 It has some reminders of things to which I should pay attention and some
 boilerplate text for certain things (like asking for code and data).
+I sign my reviews so I put in some reminders to always be civil and
+constructive.
 
 The template is written in Markdown but I generally submit it as plain text.
 Optionally, you can add images and equations and convert it to PDF using

@@ -46,7 +46,7 @@ Some templates for this:
 > original data and the processing tools (programs and scripts) used to produce
 > the results such that the research would become fully reproducible".
 
-**Geophysics:*
+**Geophysics:**
 
 > Quoting from the SEG Ethical Guidelines (http://seg.org/Publications/Policies-and-Permissions/ethical-guidelines):
 >
