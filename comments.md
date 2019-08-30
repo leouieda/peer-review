@@ -73,7 +73,7 @@ Below I provide more detailed comments.
 Sincerely,
 
 Leonardo Uieda
-Visiting Researcher - University of Hawaii at Manoa, USA
+Lecturer - University of Liverpool, UK
 
 
 ## Corrections and comments
